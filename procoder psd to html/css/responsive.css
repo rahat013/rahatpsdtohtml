@@ -1,0 +1,148 @@
+/*tablet layout*/
+@media only screen and (min-width:200px) and (max-width:991px) {
+    
+.main-header-content {
+	padding: 0;
+}
+    
+#slider-area {
+	margin-top: 0;
+}    
+.inner-hero h2 {
+	font-size: 52px;
+	
+}    
+ .inner-hero img {
+	height: 324px;
+}   
+.all_title h2 {
+	font-size: 22px;
+	margin-bottom: 37px;
+}    
+   
+.all-titleh3 h3{
+	font-size: 17px;
+}    
+.chield-testimunal a {
+	font-size: 14px;
+}    
+.about_area img {
+	margin-bottom: -6px;
+}    
+.all-titlep p {
+	margin-bottom: 0;
+}    
+.about_area a {
+	font-size: 14px;
+}    
+#form-area {
+	padding: 0;
+}    
+.chield-form h2 {
+	font-size: 19px;
+} 
+  
+}
+
+
+/*mobile layout*/
+@media only screen and (min-width:200px) and (max-width:704px) {
+   .mini-menu {
+	width: 100%;
+	margin-bottom: 15px;
+	text-align: center;
+}
+    .mini-menu ul {
+	text-align: center;
+}
+#top-header {
+	padding: 0;
+}    
+.search-area {
+	width: 250px;
+	float: none;
+	margin: 40px auto;
+}
+.logo-area {
+	width: 150px;
+	float: none;
+	margin: 0 auto;
+}
+img {
+	max-width: 100%;
+}    
+.social-area {
+	float: none;
+	width: 80%;
+	max-width: 700px;
+	margin: 0 auto;
+}    
+.social-area ul {
+	margin-top: 0px;
+	text-align: center;
+}    
+    
+ .inner-hero h2 {
+	font-size: 33px;
+	margin-bottom: 10px;
+}   
+#work_area {
+	padding: 0;
+}    
+.width-work {
+	width: 100%;
+}    
+.all_title h2 {
+	font-size: 19px;
+	margin-bottom: 10px;
+}   
+.chield-form {
+	width: 96%;
+}    
+ .copyright-left {
+	text-align: center;
+}   
+.copyright-right {
+	text-align: center;
+}    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
